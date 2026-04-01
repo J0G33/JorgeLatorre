@@ -32,9 +32,6 @@ Actualmente, soy Co-Fundador de **JL_Services**, donde impulso la transformació
 
 ---
 
-### Estadisticas de GitHub
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=J0G33&theme=tokyonight&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)
-
 ### 🌐 Conecta conmigo
 
 - 💼 **LinkedIn:** [linkedin.com/in/tu-enlace-aqui](https://www.linkedin.com/in/)
