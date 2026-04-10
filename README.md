@@ -35,5 +35,5 @@ Actualmente, soy Co-Fundador de **JL_Services**, donde impulso la transformació
 ### 🌐 Conecta conmigo
 
 - 💼 **LinkedIn:** [linkedin.com/in/tu-enlace-aqui](https://www.linkedin.com/in/)
-- 💻 **Portafolio:** [portafoliojorgelatorre.netlify.app](https://portafoliojorgelatorre.netlify.app)
+- 💻 **Portafolio:** [portafoliojorgelatorre.jorge-saul-latorrecif.workers.dev](portafoliojorgelatorre.jorge-saul-latorrecif.workers.dev)
 - 📧 **Email:** jorge.saul.latorrecif@gmail.com
